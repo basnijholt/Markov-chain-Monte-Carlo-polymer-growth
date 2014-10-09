@@ -12,6 +12,11 @@ a# Compiled source #
 *~
 *-checkpoint.ipynb
 
+# FORTRAN data files #
+*.dat
+
+# LaTex #
+*.aux
 
 # Packages #
 ############
